@@ -1,4 +1,4 @@
-# Cloudflare Developer Documentation
+Erase # Cloudflare Developer Documentation
 
 Welcome to the open-source repository for all [Cloudflare's Documentation](https://developers.cloudflare.com/).
 
